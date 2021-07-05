@@ -1,0 +1,19 @@
+body{
+    font-family: 'Barlow', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+h1{
+font-size: 60px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+}
